@@ -113,7 +113,7 @@ Por lo anterior, este documento no presenta hallazgos, porcentajes de cumplimien
 
 ## 10. Fuentes
 
-1. Steven Henao García, [Taller Sesión 7: Matriz inicial de riesgos de sistemas](https://github.com/stevenhenao534-byte/Auditor-a-de-Sistemas/blob/main/Taller-Sesion7-Matriz-Riesgos-Alquimia-Elixir-Henao.md), referencia de R-01.
+1. Steven Henao García, [Taller Sesión 7: Matriz inicial de riesgos de sistemas]  (https://github.com/stevenhenao534-byte/Auditor-a-de-Sistemas/blob/main/Taller-Sesion7-Matriz-Riesgos-Alquimia-Elixir-Henao.md), referencia de R-01.
 2. Steven Henao García, [Taller Sesión 3: marcos de auditoría para Alquimia Elixir Henao](https://github.com/stevenhenao534-byte/Auditor-a-de-Sistemas/blob/main/Taller-Sesion3-Alquimia-Elixir-Henao.md), continuidad del caso y selección de marcos.
 3. Juan Duque, [Taller: del riesgo priorizado al plan de auditoría](https://github.com/juanduque-ipb/et0114-auditoria-de-sistema/blob/main/taller/Taller-Plan-Auditoria-Segundo-Entregable.md), instrucciones del segundo entregable.
 4. Colombia, [Ley 1581 de 2012, Gestor Normativo de Función Pública](https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981), artículo 4, literales g y h. Aplicación por confirmar para la organización y tratamiento concretos.
